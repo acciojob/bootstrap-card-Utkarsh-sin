@@ -4,6 +4,6 @@
 	display:flex;
 	flex-direction:column;
 }
-.red{
-	
+.bg-danger{
+	color:white;
 }
